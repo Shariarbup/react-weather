@@ -43,13 +43,13 @@ function TempApp() {
                             <h3 className="tempmin_max">Min: {city.temp_min} °C | Max: {city.temp_max} °C</h3>
 
                         </div>
-                        <div className="wave -one"></div>
-                        <div className="wave -two"></div>
-                        <div className="wave -three"></div>
+                       
                         </div>
                     )
                 } 
-            
+             <div className="wave -one"></div>
+             <div className="wave -two"></div>
+             <div className="wave -three"></div>
             
             </div> 
         </>
